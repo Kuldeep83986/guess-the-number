@@ -1,6 +1,10 @@
 # Guess the Number Game
 A full-stack web application where users can register, log in, and play a fun "Guess the Number" game while tracking their score on a global leaderboard.
 
+<img width="1898" height="867" alt="Screenshot 2026-03-25 140445" src="https://github.com/user-attachments/assets/bdf0eaaa-cd5d-4990-b7ec-9c8aa367bc87" />
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/6ff83645-23aa-4d5e-947c-471862d17efa" />
+<img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/fac2a2e6-6f55-417b-946b-2c2623356530" />
+
 ## Features
 - User authentication (Registration and Login) using JWT
 - Authenticated users can play the game by submitting number guesses
