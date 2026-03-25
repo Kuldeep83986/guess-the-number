@@ -15,7 +15,6 @@ A full-stack web application where users can register, log in, and play a fun "G
 
 ## Deployed Link
 [Live Demo](https://guess-the-number-game123.netlify.app)
-*(Note: Replace with actual frontend link if different)*
 
 ## Setup Instructions
 
